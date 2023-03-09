@@ -69,3 +69,129 @@
     padding-top: 20px;
     text-align: right;
   }
+  #white-box4 {
+    position: absolute;
+    width: 1175px;
+    height: 85px;
+    left: 360px;
+    top: 1px;
+    background: #F7EEEE;
+  }
+  #white-box5 {
+    position: absolute;
+    width: 1075px;
+    height: 35px;
+    left: 60px;
+    border-radius: 4px;
+    top: 25px;
+    background: #ffffff;
+  }
+  #white-box6 {
+    position: absolute;
+    width: 875px;
+    height: 340px;
+    left: 520px;
+    top: 25px;
+    background: #ffffff;
+    border-bottom: 1px solid
+  }
+  #pop{
+    margin-top: 90px;
+    margin-left: 30px;
+  }
+  #white-box7 {
+    position: absolute;
+    width: 130px;
+    height: 45px;
+    border-radius: 5px;
+    left: 720px;
+    top: 250px;
+    background: #F7EEEE;
+  }
+  #white-box7 h2 {
+    font-size: 20px;
+    padding: 10px 20px;
+  }
+  #white-box8 {
+    position: absolute;
+    width: 230px;
+    height: 230px;
+    border-radius: 5px;
+    left: 540px;
+    top: 430px;
+    background: #F7EEEE;
+  }
+  #white-box8 img {
+    padding: 10px 17px;
+  }
+  .a {
+    padding: 16px;
+  }
+  
+  /* Full-width input fields */
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #ffffff;
+  }
+  
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  /* Overwrite default styles of hr */
+  hr {
+    border: 1px solid #ffffff;
+    margin-bottom: 25px;
+  }
+  
+  /* Set a style for the submit/register button */
+  .registerbtn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
+  .registerbtn:hover {
+    opacity:1;
+  }
+  
+  /* Add a blue text color to links */
+  a {
+    color: dodgerblue;
+  }
+  
+  /* Set a grey background color and center the text of the "sign in" section */
+  .signin {
+    background-color: #ffffff;
+    text-align: center;
+  }
+  #white-box9 {
+    position: absolute;
+    width: 930px;
+    height: 395px;
+    border-radius: 5px;
+    left: 320px;
+    top: 190px;
+    background: #F7EEEE;
+  }
+.aa{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: normal;
+  padding-left: 60px;
+  padding-top: 30px;
+  font-size: 60px;
+  margin: -10px 480px;
+}
+  
+
+  
