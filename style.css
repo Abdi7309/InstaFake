@@ -122,7 +122,8 @@
     background: #F7EEEE;
   }
   #white-box8 img {
-    padding: 10px 17px;
+    padding-left: 15px;
+    margin-top: 15px;
   }
   .a {
     padding: 16px;
@@ -313,11 +314,19 @@ input[type="text"] {
   outline: none;
   width: 300px;
 }
+input[type="text2"] {
+  padding: 8px;
+  border-radius: 4px 0 0 4px;
+  border: none;
+  outline: none;
+  width: 1535px;
+  height: 40px;
+}
+
 
 button[type="submit"] {
   padding: 8px;
   margin-left: 750px;
-  margin-top: px;
   border-radius: 0 4px 4px 0;
   border: none;
   outline: none;
