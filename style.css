@@ -348,6 +348,24 @@ button[type="submit"] {
 #button3{
   margin-left: 0;
 }
+.ipload-image {
+	display: block;
+	width: 100%;
+  margin-top: 20px;
+  margin-right: 100px;
+	padding: 16px 0;
+	border-radius: 15px;
+	background: var(--blue);
+	color: #fff;
+	font-weight: 500;
+	font-size: 16px;
+	border: none;
+	cursor: pointer;
+	transition: all .3s ease;
+}
+.ipload-image:hover {
+	background: var(--dark-blue);
+}
 
 
 
