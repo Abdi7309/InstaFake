@@ -6,7 +6,7 @@
 .container {
     width: 25%;
     height: 100vh;
-    background-color: #F7EEEE;
+    background-color: #14b3be;
   }
   
 .container h2{
@@ -72,22 +72,15 @@
   #white-box4 {
     position: absolute;
     width: 1175px;
-    height: 85px;
+    height: 89px;
     left: 360px;
-    top: 1px;
-    background: #F7EEEE;
+    top: 0px;
+    background: #14b3be;
   }
-  #white-box5 {
-    position: absolute;
-    width: 1075px;
-    height: 35px;
-    left: 60px;
-    border-radius: 4px;
-    top: 25px;
-    background: #ffffff;
-  }
+
+  
   input[type=text], input[type=password] {
-    width: 100%;
+    width: 50%;
     padding: 15px;
     margin: 0px 0 22px 0;
     display: inline-block;
