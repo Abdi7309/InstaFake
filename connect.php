@@ -17,7 +17,7 @@
 		echo( "<button onclick= \"location.href='home.html'\">home</button>");
 		
 	}
-	$conn->close();
+
 ?>
 
 

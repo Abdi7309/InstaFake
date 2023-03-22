@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.container {
+    width: 25%;
+    height: 100vh;
+    background-color: #F7EEEE;
+  }
+  
+.container h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    padding-left: 60px;
+    padding-top: 30px;
+    font-size: 60px;
+  }
+
+#white-box {
+    position: absolute;
+    width: 368px;
+    height: 85px;
+    left: -60px;
+    top: 190px;
+    border-radius: 20px;
+    background: #ffffff;
+  }
+  #white-box h1{
+    padding-left: 100px;
+    padding-right: 20px;
+    padding-top: 20px;
+    text-align: right;
+  }
+#foto{
+    height: 60px;
+    width: 60px;
+    margin-top: -80px;
+    margin-left: 80px;
+}
+  #white-box2 {
+    position: absolute;
+    width: 368px;
+    height: 85px;
+    left: -60px;
+    top: 300px;
+    border-radius: 20px;
+    background: #ffffff;
+  }
+  #white-box2 h1{
+    padding-left: 100px;
+    padding-right: 20px;
+    padding-top: 20px;
+    text-align: right;
+  }
+
+  #white-box3 {
+    position: absolute;
+    width: 368px;
+    height: 85px;
+    left: -60px;
+    top: 410px;
+    border-radius: 20px;
+    background: #ffffff;
+  }
+  #white-box3 h1{
+    padding-left: 100px;
+    padding-right: 20px;
+    padding-top: 20px;
+    text-align: right;
+  }
+  #white-box6 {
+    position: absolute;
+    width: 875px;
+    height: 340px;
+    left: 520px;
+    top: 25px;
+    background: #ffffff;
+    border-bottom: 1px solid
+  }
+  #pop{
+    margin-top: 90px;
+    margin-left: 30px;
+  }
+  #white-box7 {
+    position: absolute;
+    width: 130px;
+    height: 45px;
+    border-radius: 5px;
+    left: 720px;
+    top: 250px;
+    background: #F7EEEE;
+  }
+  #white-box7 h2 {
+    font-size: 20px;
+    padding: 10px 20px;
+  }
+  #white-box8 {
+    position: absolute;
+    width: 230px;
+    height: 230px;
+    border-radius: 5px;
+    left: 540px;
+    top: 430px;
+    background: #F7EEEE;
+  }
+  #white-box8 img {
+    padding-left: 15px;
+    margin-top: 15px;
+  }

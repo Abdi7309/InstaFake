@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.container {
+    width: 25%;
+    height: 100vh;
+    background-color: #F7EEEE;
+  }
+  
+.container h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    padding-left: 60px;
+    padding-top: 30px;
+    font-size: 60px;
+  }
+
+#white-box {
+    position: absolute;
+    width: 368px;
+    height: 85px;
+    left: -60px;
+    top: 190px;
+    border-radius: 20px;
+    background: #ffffff;
+  }
+  #white-box h1{
+    padding-left: 100px;
+    padding-right: 20px;
+    padding-top: 20px;
+    text-align: right;
+  }
+#foto{
+    height: 60px;
+    width: 60px;
+    margin-top: -80px;
+    margin-left: 80px;
+}
+  #white-box2 {
+    position: absolute;
+    width: 368px;
+    height: 85px;
+    left: -60px;
+    top: 300px;
+    border-radius: 20px;
+    background: #ffffff;
+  }
+  #white-box2 h1{
+    padding-left: 100px;
+    padding-right: 20px;
+    padding-top: 20px;
+    text-align: right;
+  }
+
+  #white-box3 {
+    position: absolute;
+    width: 368px;
+    height: 85px;
+    left: -60px;
+    top: 410px;
+    border-radius: 20px;
+    background: #ffffff;
+  }
+  #white-box3 h1{
+    padding-left: 100px;
+    padding-right: 20px;
+    padding-top: 20px;
+    text-align: right;
+  }
+  #white-box4 {
+    position: absolute;
+    width: 1175px;
+    height: 85px;
+    left: 360px;
+    top: 1px;
+    background: #F7EEEE;
+  }
+  #white-box5 {
+    position: absolute;
+    width: 1075px;
+    height: 35px;
+    left: 60px;
+    border-radius: 4px;
+    top: 25px;
+    background: #ffffff;
+  }
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 0px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #ffffff;
+  }
+  
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+button[type="submit"] {
+  padding: 8px;
+  margin-left: 750px;
+  border-radius: 0 4px 4px 0;
+  border: none;
+  outline: none;
+  background-color: #121212;
+  color: #fff;
+  cursor: pointer;
+}
+
+#search-results {
+  margin-top: 20px;
+  display: none;
+}
