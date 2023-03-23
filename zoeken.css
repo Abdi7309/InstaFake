@@ -71,15 +71,14 @@
   }
   #white-box4 {
     position: absolute;
-    width: 1175px;
     height: 89px;
-    left: 360px;
+    left: 479px;
     top: 0px;
     background: #EDF0F5;
   }
 
   input[type=text], input[type=password] {
-    width: 50%;
+    width: 100%;
     padding: 15px;
     margin: 20px 0 0px 0;
     display: inline-block;
@@ -106,4 +105,18 @@ button[type="submit"] {
 #search-results {
   margin-top: 20px;
   display: none;
+}
+form.example button { 
+  float: left; 
+  width: 20%; 
+  padding: 10px; 
+  background: #000000; 
+  color: white; 
+  font-size: 17px; 
+  border: 1px solid #cecece; 
+  border-left: none; 
+  cursor: pointer; 
+} 
+form.example button:hover { 
+  background: #000000;
 }
