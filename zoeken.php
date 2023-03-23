@@ -8,11 +8,9 @@
     <link rel="stylesheet" href="zoeken.css">
 </head>
 <body>
-    <div class="container"><h2 onclick="window.location.href='./index.html'">InstaFake</h2>
-    <div id="white-box" onclick="window.location.href='./home.html'"><h1>Startpagina</h1><img id="foto" src="home_house_icon-icons.com_49851.png" alt=""></div>
-    <div id="white-box2"><h1 style="text-decoration-line:underline ;">Zoeken</h1><img id="foto" src="magnifier-1_icon-icons.com_56924.png" alt=""></div>
-    <div id="white-box3" onclick="window.location.href='./Profiel.html'"><h1>Profiel</h1><img id="foto" src="3289576-individual-man-people-person_107097.png" alt=""></div>
-    </div>
+    <?php 
+        require_once("menu.php");
+    ?>
     <div id="white-box4"><h1></h1>
     <div id="white-box5"><h1>        
         <div id="white-box5"><h1>        

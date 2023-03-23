@@ -14,8 +14,7 @@
 		echo "Registration successfully...";
 		$stmt->close();
 		$conn->close();
-		echo( "<button onclick= \"location.href='home.html'\">home</button>");
-		
+		echo( "<button onclick= \"location.href='home.php'\">home</button>");
 	}
 
 ?>
