@@ -6,7 +6,7 @@
 .container {
     width: 25%;
     height: 100vh;
-    background-color: #14b3be;
+    background-color: #EDF0F5;
   }
   
 .container h2{
@@ -75,7 +75,7 @@
     height: 89px;
     left: 360px;
     top: 0px;
-    background: #14b3be;
+    background: #EDF0F5;
   }
 
   input[type=text], input[type=password] {
