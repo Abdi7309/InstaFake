@@ -6,7 +6,7 @@
 .container {
     width: 25%;
     height: 100vh;
-    background-color: #F7EEEE;
+    background-color: #14b3be;
   }
   
 .container h2{
@@ -106,7 +106,7 @@
     border-radius: 5px;
     left: 720px;
     top: 250px;
-    background: #F7EEEE;
+    background: #14b3be;
   }
   #white-box7 h2 {
     font-size: 20px;
@@ -119,11 +119,21 @@
     border-radius: 5px;
     left: 540px;
     top: 430px;
-    background: #F7EEEE;
+    background: #ffffff;
   }
   #white-box8 img {
     padding-left: 15px;
     margin-top: 15px;
+  }
+  #white-box11 {
+    position: absolute;
+    width: 130px;
+    height: 45px;
+     border-radius: 5px;
+     left: 720px;
+     top: 250px;
+     background: #14b3be;
+
   }
   .a {
     padding: 16px;
