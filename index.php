@@ -1,38 +1,23 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Log in</title>
-<link rel="stylesheet" href="index.css">
-  </head>
-  <body>
-    <form action="connect.php" method="post">
-      </div>
-      <div class="container">
-        <div class="form-group">
-          <label for="email">Email</label>
-          <input
-            type="text"
-            class="form-control"
-            id="email"
-            name="email"
-          />
-        </div>
-    
-        <div class="form-group">
-          <label for="password">Password</label>
-          <input
-            type="password"
-            class="form-control"
-            id="password"
-            name="password"
-          />
-        </div>
-    
+<head>
+<title>LOGIN</title>
+<link rel="stylesheet" href="index1.css">
+
+</head>
+<body>
+     <form action="dbConnection.php" method="post">
+        <h2>LOGIN</h2>
+        <?php if (isset($_GET['error'])) { ?>
+            <p class="error"><?php echo $_GET['error']; ?></p>
+        <?php } ?>
+        <label>UserName</label>
+        <input type="text" name="uname" placeholder="UserName"><br>
+        <label>Password</label>
+        <input type="password" name="password" placeholder="Password"><br> 
         <button type="submit">Login</button>
+        <button1 onclick="window.location.href='./registreren.php'">registreren</button1>
+     </form>
+</body>
 
-      </div>
-    
-
-    </form>
-  </body>
 </html>
