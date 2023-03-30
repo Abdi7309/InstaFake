@@ -71,22 +71,23 @@
   }
   #white-box4 {
     position: absolute;
-    width: 250px;
-    height: 85px;
+    width: 200px;
+    height: 35px;
     left: 60px;
-    top: 600px;
+    top: 690px;
     border-radius: 20px;
     background: #ffffff;
   }
   #white-box4 h1{
-    padding-left: 10px;
-    padding-right: 20px;
-    padding-top: 25px;
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-top: -27px;
     text-align: right;
+    font-size: 20px;
   }
   #foto1{
-    height: 60px;
-    width: 60px;
-    margin-top: -100px;
+    height: 25px;
+    width: 25px;
+    margin-top: 5px;
     margin-left: 10px;
 }
