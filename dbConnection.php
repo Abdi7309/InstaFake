@@ -40,7 +40,7 @@ if (isset($_POST['uname']) && isset($_POST['password'])) {
                 exit();
             }
             else{
-                header("Location: home.php?error=Incorect User name or password");
+                header("Location: home.php");
                 exit();
             }
         }
