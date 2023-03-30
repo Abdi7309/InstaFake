@@ -30,7 +30,8 @@
           />
         </div><br>
         <button type="submit">register</button>
-        <button1 onclick="window.location.href='./index.php'">login</button1>
+        <div onclick="window.location.href='./index.php'">Al een account?<br> LOGIN!</div>
+
      </form>
 </body>
 

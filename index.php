@@ -16,7 +16,7 @@
         <label>Password</label>
         <input type="password" name="password" placeholder="Password"><br> 
         <button type="submit">Login</button>
-        <button1 onclick="window.location.href='./registreren.php'">registreren</button1>
+        <div onclick="window.location.href='./registreren.php'">Nog geen account?<br> REGISTREER!</div>
      </form>
 </body>
 
